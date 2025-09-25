@@ -1,4 +1,6 @@
-# Project: Rohlik Sales Forecasting Challenge
+![vegetables in the shelves in grocery shop](https://images.pexels.com/photos/2733918/pexels-photo-2733918.jpeg)
+# Programming for Data Analytics
+## Project: Rohlik Sales Forecasting Challenge
 ### Author: Lucia Macakova
 
 As a student of the [Atlantic Technical University](https://www.atu.ie/) in the program [Higher Diplomma in Science and Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics), in the year 2024/2025, I decided to try kaggle competition [Rohlik Sale Forecasting Challenge](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/overview) as a project for the module Programming for Data Analytics,
@@ -61,8 +63,3 @@ In project.ipynb notebook. I decided to use neural network prediction[^2] with m
 Lucia Macakova
 
 email: G00439449@atu.ie
-
-### Resources:
-[^1]: https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/data
-[^2]: https://www.kaggle.com/code/ezeanyi/predicting-future-sales-with-neural-networks#LSTM
-[^3]: https://en.wikipedia.org/wiki/Mean_absolute_error
