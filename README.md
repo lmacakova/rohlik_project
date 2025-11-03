@@ -1,18 +1,14 @@
 ![vegetables in the shelves in grocery shop](https://images.pexels.com/photos/2733918/pexels-photo-2733918.jpeg)
-# Programming for Data Analytics
-## Project: Rohlik Sales Forecasting Challenge
-### Author: Lucia Macakova
+# Project: Rohlik Sales Forecasting Challenge
 
-As a student of the [Atlantic Technical University](https://www.atu.ie/) in the program [Higher Diplomma in Science and Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics), in the year 2024/2025, I decided to try kaggle competition [Rohlik Sale Forecasting Challenge](https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/overview) as a project for the module Programming for Data Analytics,
+---
 
-I am the only contributor to this project.
-
-### Task: Predicting sales values for each warehouse 
-
+## Task: Predicting sales values for each warehouse
 Predicting sales values is essential for planning, supplying chains, delivery logistics and inventory management. With accurate forecast, businesses can minimaze waste of resources and volume of unnecessary work-related tasks.
 
-###  Data:
+---
 
+## Data:
 -   sales_train.csv - training set containing the historical sales data for given date and inventory with selected features described below
 -   sales_test.csv - full testing set
 -   inventory.csv - additional information about inventory like its product (same products across all warehouses share same product unique id and name, but have different unique id)
@@ -53,13 +49,18 @@ holiday - 0/1 indicating the presence of holidays
 Columns for test_weights.csv
 
 -   unique_id - inventory id for a single keeping unit
--   weight - weight used for final metric computation[^1]
+-   weight - weight used for final metric computation
 
-### Solution:
+---
 
-In project.ipynb notebook. I decided to use neural network prediction[^2] with mean absolute error[^3] as measurement.
+## Solution:
+In project.ipynb notebook. I decided to use light gradient boosting machine model [^1] with weighted mean absolute error as measurement.
 
-### Contact:
-Lucia Macakova
+---
 
+## Contact:
+Lucia Macakova\
 email: G00439449@atu.ie
+
+Resources:
+[^1]:   https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/
