@@ -5,6 +5,7 @@
 
 ## Task: Predicting sales values for each warehouse
 Predicting sales values is essential for planning, supplying chains, delivery logistics and inventory management. With accurate forecast, businesses can minimaze waste of resources and volume of unnecessary work-related tasks.
+The data comes from kaggle competition Rohlik Sales Forecasting Challenge[^1].
 
 ---
 
@@ -54,7 +55,7 @@ Columns for test_weights.csv
 ---
 
 ## Solution:
-In project.ipynb notebook. I decided to use light gradient boosting machine model [^1] with weighted mean absolute error as measurement.
+In project.ipynb notebook. I decided to use light gradient boosting machine model [^2] with weighted mean absolute error as measurement.
 
 ---
 
@@ -62,5 +63,8 @@ In project.ipynb notebook. I decided to use light gradient boosting machine mode
 Lucia Macakova\
 email: G00439449@atu.ie
 
+---
+
 Resources:
-[^1]:   https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/
+[^1]:   https://www.kaggle.com/competitions/rohlik-sales-forecasting-challenge-v2/models
+[^2]:   https://www.geeksforgeeks.org/machine-learning/lightgbm-light-gradient-boosting-machine/
