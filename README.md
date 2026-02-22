@@ -1,4 +1,4 @@
-![vegetables in the shelves in grocery shop](https://images.pexels.com/photos/2733918/pexels-photo-2733918.jpeg)
+![vegetables in the shelves in grocery shop](https://images.pexels.com/photos/2733918/pexels-photo-2733918.jpeg)<sup>Author: Matheus Cenali, pexels.com</sup>
 # Project: Rohlik Sales Forecasting Challenge
 
 ---
